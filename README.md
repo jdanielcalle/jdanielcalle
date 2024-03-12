@@ -10,7 +10,7 @@
 
 ### About me
 
-I'm a software developer with six months of experience as a backend developer. I'm passionate about software engineering, astronmy and languages. I live in Medellin, Colombia. I'm currently studying a technological degree in Software Development at the Pascual Bravo University Institution. 
+I'm a software developer with six months of experience as a backend developer. I'm passionate about software engineering, astronomy and languages. I live in Medellin, Colombia. I'm currently studying a technological career in Software Development at the Pascual Bravo University Institution. 
 
 ### Skills
 
