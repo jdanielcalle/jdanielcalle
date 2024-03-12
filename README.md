@@ -1,7 +1,5 @@
 ## Hi there 👋, I'm Daniel Calle
 
-***
-
 ![](https://komarev.com/ghpvc/?username=jdanielcalle)
 
 - 🔭 I’m currently working on a project with Spring Boot at the Bootcamp MAKAIA
@@ -21,8 +19,6 @@ I'm a software developer with six months of experience as a backend developer. I
 ### Connect with me
 
 LinkedIn: https://www.linkedin.com/in/jair-daniel-calle-sinitave/
-
-***
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdanielcalle&show_icons=true&theme=default)
 
